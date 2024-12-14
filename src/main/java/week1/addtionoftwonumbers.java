@@ -9,5 +9,6 @@ public class addtionoftwonumbers {
         addtionoftwonumbers jay = new addtionoftwonumbers();
         //jay.sum()
         System.out.println(jay.sum(10,12));
+        /// /
     }
 }
